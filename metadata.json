@@ -1,0 +1,8 @@
+{
+  "name": "Núcleo ERP",
+  "description": "ERP empresarial modular con área administrativa, facturación, automatización n8n y asistente Gemini bajo control de permisos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
